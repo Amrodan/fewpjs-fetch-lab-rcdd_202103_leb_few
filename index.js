@@ -9,7 +9,7 @@ function fetchBooks() {
 renderBooks.json())
   };
 
-} 
+}
 
 function renderBooks(books) {
   const main = document.querySelector('main');
